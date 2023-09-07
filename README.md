@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<h2 align="left" style="color: #00008B;">I am Krishna Prasad, hailing from Bangalore, India, and specializing in MERN stack development.</h2>
 
-<h2 align="left">I am Krishna Prasad, hailing from Bangalore, India, and specializing in MERN stack development.</h2>
 
 ###
 
@@ -12,6 +12,27 @@
 
 <p align="left">A versatile MERN (MongoDB, Express.js, React, Node.js) developer with expertise in the full-stack development domain.</p>
 
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/krishnaprasad-c-4830a9192" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/krishnaprasadc7?t=Wblc750z0K6FaEmMxrJIUg&s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHCWcKMCDrZQKLQJnKNDWMwnPXkbsPmLvrsbLDptrhCXKtBNQRgpBNNXJwbpCmmtftXB" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/secretcode.45?utm_source=qr&igshid=OGIxMTE0OTdkZA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21614777/krishnaprasad-c" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="32" height="20" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
 ###
 
 <h2 align="left">Language and Tools</h2>
@@ -56,25 +77,8 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/krishnaprasad-c-4830a9192" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/krishnaprasadc7?t=Wblc750z0K6FaEmMxrJIUg&s=09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHCWcKMCDrZQKLQJnKNDWMwnPXkbsPmLvrsbLDptrhCXKtBNQRgpBNNXJwbpCmmtftXB" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://instagram.com/secretcode.45?utm_source=qr&igshid=OGIxMTE0OTdkZA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21614777/krishnaprasad-c" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="42" height="30" alt="stackoverflow logo"  />
-  </a>
-</div>
 
-###
+
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=Krishnaprasad" alt="Layout with last medium posts"  />
@@ -88,6 +92,6 @@
 </div>
 
 ###
-<h3 align="left">I appreciate your visit to my profile.</h3>
+<h3 align="left"  style="color: #00008B>I appreciate your visit to my profile.</h3>
 
 ###
