@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=krishnaprasadc45&color=red" alt="profile views" />
   </a>
   <a href="https://github.com/krishnaprasad45?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/krishnaprasadc45?color=yellow&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/krishnaprasad45?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/Krishna Prasad C">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.6K-blue?color=blue&logo=linkedin">
