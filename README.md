@@ -8,7 +8,7 @@
   <a href="https://github.com/krishnaprasad45?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/krishnaprasad45?color=yellow&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/Krishna Prasad C">
+  <a href="https://www.linkedin.com/in/krishna-prasad-c-4830a9192">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.6K-blue?color=blue&logo=linkedin">
   </a>
 <!--   <a href="https://www.behance.net/krishnaprasad45">
