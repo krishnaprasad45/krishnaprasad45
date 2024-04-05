@@ -2,7 +2,24 @@
 
 ###
 <h2 align="left" style="color: #00008B;">I am Krishna Prasad, hailing from Bangalore, India, and specializing in MERN stack development.</h2>
-
+ <a href="https://github.com/azzzrro/azzzrro">
+    <img src="https://komarev.com/ghpvc/?username=krishnaprasadc45&color=red" alt="profile views" />
+  </a>
+  <a href="https://github.com/krishnaprasadc45?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/krishnaprasadc45?color=yellow&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/Krishna Prasad C">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.6K-blue?color=blue&logo=linkedin">
+  </a>
+<!--   <a href="https://www.behance.net/azzzrro">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/followers-7-blue?color=yellowgreen&logo=behance">
+  </a> -->
+<!--   <a href="https://stackoverflow.com/users/21353852">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21353852?color=orange&label=reputation&logo=stackoverflow">
+  </a> -->
+<!--   <a href="https://www.leetcode.com/helloazzzrro">
+    <img alt="HackerRank" src="https://img.shields.io/badge/leetcode-25+-red?color=red&logo=leetcode">
+  </a> -->
 
 ###
 
