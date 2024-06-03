@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<h2 align="left" style="color: #00008B;">I am Krishna Prasad, hailing from Bangalore, India, and specializing in MERN stack development.</h2>
+<h2 align="left" style="color: #00008B;">I'm Krishna Prasad from Bangalore, India and specialized in MERN stack development.</h2>
  <a href="https://github.com/krishnaprasad45/krishnaprasad45">
     <img src="https://komarev.com/ghpvc/?username=krishnaprasadc45&color=red" alt="profile views" />
   </a>
