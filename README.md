@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<h2 align="left" style="color: #00008B;">I'm Krishna Prasad from Bangalore, India and specialized in MERN stack development.</h2>
+<h2 align="left" style="color: #00008B;">My name is Krishna Prasad. I'm a software engineer working for a Dubai-based company in the UAE.</h2>
  <a href="https://github.com/krishnaprasad45/krishnaprasad45">
     <img src="https://komarev.com/ghpvc/?username=krishnaprasadc45&color=red" alt="profile views" />
   </a>
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">A versatile MERN (MongoDB, Express.js, React, Node.js) developer with expertise in the full-stack development domain.</p>
+<p align="left">A versatile MERN (MongoDB, Express.js, React, Node.js) developer with expertise in the full-stack development domain.I have immersed myself in different programming languages and technologies, gradually becoming proficient in the MERN stack. This skill has enabled me to build and enhance web applications, adding my touch to the digital world. I'm enthusiastic about tackling fresh challenges and growing in the ever-changing tech landscape. I'm eager to uncover new opportunities and make a real impact wherever I go.</p>
 
 ###
 
